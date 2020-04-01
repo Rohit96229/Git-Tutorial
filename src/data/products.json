@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "I am Groot",
+      "description": "fdbghnhnhfnhn",
+      "keywords": ["stuffed", "plus", "groot", "guardians of galaxy"],
+
+      "image": "groot.jpg",
+      "age": ["0", "+"],
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "name": "buzz light",
+      "description": "fdbghnhnhfnhn dfgfhngfh ",
+      "keywords": ["stuffed", "plus", "groot", "guardians of galaxy"],
+
+      "image": "buzzlight.jpg",
+      "age": ["0", "+"],
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "name": "i am devloper",
+      "description": "fdbghnhnhfnhn",
+      "keywords": ["stuffed", "plus", "groot", "guardians of galaxy"],
+
+      "image": "devloper.jpg",
+      "age": ["0", "+"],
+      "price": 19.99
+    }
+  ]
+}
